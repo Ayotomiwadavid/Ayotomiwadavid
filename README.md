@@ -1,6 +1,6 @@
 👋 Hi, I'm Ayotomiwa David
 
-I'm a passionate and dedicated Full-Stack Developer specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. With a robust foundation in web development and a keen eye for detail, I create dynamic, user-friendly, and efficient web applications. My toolkit includes a variety of modern technologies and best practices that ensure scalable and maintainable code.
+I'm a passionate and dedicated Full-Stack Developer specializing in the NextJs and MERN (MongoDB, Express.js, React, Node.js) stack. With a robust foundation in web development and a keen eye for detail, I create dynamic, user-friendly, and efficient web applications. My toolkit includes a variety of modern technologies and best practices that ensure scalable and maintainable code.
 
 🚀 Technical Skills
 Frontend: React, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Redux
