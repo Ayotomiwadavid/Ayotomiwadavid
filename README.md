@@ -1,32 +1,34 @@
-👋 Hi, I'm Ayotomiwa David
+<div>
+  <div align="center">
+    <img src="https://github.com/Dprof-in-tech/Dprof-in-tech/assets/116242877/6a987770-ba0a-48d0-bfec-a47526b8c266" alt="Header image" style="width: 100%; height: auto;"/>
+  </div>
+  <br/>
+  <div align="start">
+    
+  ## Hello, Ayotomiwa David 
+  Frontend @techthoth
 
-I'm a passionate and dedicated Full-Stack Developer specializing in the NextJs and MERN (MongoDB, Express.js, React, Node.js) stack. With a robust foundation in web development and a keen eye for detail, I create dynamic, user-friendly, and efficient web applications. My toolkit includes a variety of modern technologies and best practices that ensure scalable and maintainable code.
+  ### Catch up with me on:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/Onyemaechi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/i_amprof) 
+  [![](https://visitcount.itsvg.in/api?id=dprof-in-tech&icon=0&color=0)](https://visitcount.itsvg.in)
+  </div>
+  
+  # 💻 What I Know:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)   ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+  # 📊 GitHub Stats:
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=dprof-in-tech&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dprof-in-tech&theme=great-gatsby&hide_border=false" alt="GitHub Streak Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dprof-in-tech&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"></td>
+  </tr>
+</table>
 
-🚀 Technical Skills
-Frontend: React, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Redux
-Backend: Node.js, Express.js, RESTful APIs, GraphQL
-Databases: MongoDB, Mongoose
-Tools & Platforms: Git, GitHub, Docker, Heroku, Netlify, Postman
-DevOps: CI/CD, GitHub Actions
-Others: Agile/Scrum methodologies, Responsive Design, JSON, Webpack
 
-🌟 Projects
-Trade Ace: https://tradeace.vercel.app/
-Trade Ace is full stack web application I developed early this year. It allows user sign up and make payment to start trading their bitcoin and also trace their profits in relative to the market value of BTC.
+  ## 🏆 GitHub Trophies
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=dprof-in-tech&theme=nord&no-frame=false&no-bg=true&margin-w=4" style="width: 100%;" alt="Trophies">
+</div>
 
-Tech Stack: React, Node.js, Express, Firebase, MongoDB, Tailwind CSS
-Features: Authentication, CRUD operations, Responsive design
+</div>
 
-Scribbler Ai
-This is a freelance web application, I'm currently working you can check out the landing page at: https://scribbler-ai-landing-page.vercel.app/ the website deals with giving business owners insigts on how to enhance their business visibility and engagement.
-
-Tech Stack: React, Redux, Express, MongoDB, SASS
-Features: Real-time updates, RESTful API integration, User-friendly UI
-
-🤝 Let's Connect
-LinkedIn: www.linkedin.com/in/ayotomiwa-olusanya-79a7402a6
-Twitter: https://twitter.com/DenmarkDecoder
-whatsapp: https://wa.me/2349015580889
-Email: Olusanyatomiwa97@gmail.com
-
-Happy Coding! 🚀
